@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋 I am Sameer Gupta
+
+I am an Automation Tester, currently residing in India
+- 🔭 I’m currently working on Automation testing using selenium and C#
+- 🌱 I’m currently learning Python (Level - Intermediate)
+- 👯 I’m looking to collaborate on open source python projects
+- 🤔 I’m looking for help with understanding Machine Learning in next 8-10 months
+- 📫 How to reach me: 
 
 <!--
 **Sameer281187/Sameer281187** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
