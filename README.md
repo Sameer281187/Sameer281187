@@ -2,7 +2,7 @@
 
 I am an Automation Tester, currently residing in India
 - 🔭 I’m currently working on Automation testing using selenium and C#
-- 🌱 I’m currently learning Python (Level - Intermediate)
+- 🌱 I’m currently learning Python (Current Level - Intermediate)
 - 👯 I’m looking to collaborate on open source python projects
 - 🤔 I’m looking for help with understanding Machine Learning in next 8-10 months
 - 📫 How to reach me: 
