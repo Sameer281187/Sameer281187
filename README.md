@@ -1,5 +1,11 @@
-## Hi there 👋 I am Sameer Gupta
+<h1 align="center">Hi 👋, I'm Sameer Gupta</h1>
+<h3 align="center">A passionate Automation enthusiast from India</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I+love+building+cool+stuff;Always+learning+new+techs;Let's+connect!&center=true&width=500&height=50" />
+</p>
+
+### 🧑‍💻 About Me
 I am an Automation Tester, currently residing in India
 - 🔭 I’m currently working on Automation testing using selenium and C#
 - 🌱 I’m learning Python (Current Level - Intermediate)
