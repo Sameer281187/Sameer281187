@@ -19,6 +19,7 @@ I am an Automation Tester, currently residing in India
 ![Java](https://img.shields.io/badge/Java-333?style=flat&logo=java)
 ![Selenium](https://img.shields.io/badge/Selenium-WebDriver-333?style=flat&logo=selenium)
 ![Cypress](https://img.shields.io/badge/Cypress-333?style=flat&logo=cypress)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-333?style=flat&logo=azure-devops)
 ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 
