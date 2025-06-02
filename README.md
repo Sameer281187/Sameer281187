@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Automation enthusiast from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I+love+building+cool+stuff;Always+learning+new+techs;Let's+connect!&center=true&width=500&height=50" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Always+learning+new+techs;Let's+connect!;Learn+Together&center=true&width=500&height=50" />
 </p>
 
 ### 🧑‍💻 About Me
