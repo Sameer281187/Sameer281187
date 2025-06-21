@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sameer Gupta</h1>
-<h3 align="center">A passionate Automation enthusiast from India</h3>
+<h3 align="center">A passionate Automation enthusiast from Gurugram, Haryana, India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Started+learning+new+techs;Let's+connect!;Learn+Together&center=true&width=500&height=50" />
