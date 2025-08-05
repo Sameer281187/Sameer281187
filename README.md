@@ -17,6 +17,8 @@ I am an Automation Tester, currently residing in India
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/Java-333?style=flat&logo=java)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-WebDriver-333?style=flat&logo=selenium)
 ![Cypress](https://img.shields.io/badge/Cypress-333?style=flat&logo=cypress)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-333?style=flat&logo=azure-devops)
