@@ -8,7 +8,7 @@
 ### 🧑‍💻 About Me
 I am an Automation Tester, currently residing in India
 - 🔭 I’m currently working on Automation testing using selenium and C#
-- 🌱 I’m learning Python (Current Level - Intermediate)
+- 🌱 I’m learning Python (Current Level - Intermediate+)
 - 👯 I’m looking to collaborate on open source python projects. Motive is to learn by doing.
 - 🤔 I’m looking for help with understanding Machine Learning in next 8-10 months
 - ⚡ Fun fact: I am cricket enthusiast. Play cricket at a basic level and while watching professional matches I try to strategise on the go and them compare with actual captain's strategy
