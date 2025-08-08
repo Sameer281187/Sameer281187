@@ -24,6 +24,7 @@ I am an Automation Tester, currently residing in India
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-333?style=flat&logo=azure-devops)
 ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+![Git](https://img.shields.io/badge/-Wordpress-333?style=flat&logo=wordpress)
 
 ### 📊 GitHub Stats
 
